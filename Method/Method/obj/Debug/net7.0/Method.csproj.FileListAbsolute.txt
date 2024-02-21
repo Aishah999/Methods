@@ -1,0 +1,15 @@
+/Users/aisha/Desktop/Methods/Method/Method/bin/Debug/net7.0/Method
+/Users/aisha/Desktop/Methods/Method/Method/bin/Debug/net7.0/Method.deps.json
+/Users/aisha/Desktop/Methods/Method/Method/bin/Debug/net7.0/Method.runtimeconfig.json
+/Users/aisha/Desktop/Methods/Method/Method/bin/Debug/net7.0/Method.dll
+/Users/aisha/Desktop/Methods/Method/Method/bin/Debug/net7.0/Method.pdb
+/Users/aisha/Desktop/Methods/Method/Method/obj/Debug/net7.0/Method.csproj.AssemblyReference.cache
+/Users/aisha/Desktop/Methods/Method/Method/obj/Debug/net7.0/Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aisha/Desktop/Methods/Method/Method/obj/Debug/net7.0/Method.AssemblyInfoInputs.cache
+/Users/aisha/Desktop/Methods/Method/Method/obj/Debug/net7.0/Method.AssemblyInfo.cs
+/Users/aisha/Desktop/Methods/Method/Method/obj/Debug/net7.0/Method.csproj.CoreCompileInputs.cache
+/Users/aisha/Desktop/Methods/Method/Method/obj/Debug/net7.0/Method.dll
+/Users/aisha/Desktop/Methods/Method/Method/obj/Debug/net7.0/refint/Method.dll
+/Users/aisha/Desktop/Methods/Method/Method/obj/Debug/net7.0/Method.pdb
+/Users/aisha/Desktop/Methods/Method/Method/obj/Debug/net7.0/Method.genruntimeconfig.cache
+/Users/aisha/Desktop/Methods/Method/Method/obj/Debug/net7.0/ref/Method.dll
